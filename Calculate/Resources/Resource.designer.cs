@@ -3952,6 +3952,9 @@ namespace Calculate
 			// aapt resource value: 0x7F0E00AC
 			public const int Base_Widget_Design_TabLayout = 2131624108;
 			
+			// aapt resource value: 0x7F0E018E
+			public const int button_calculator = 2131624334;
+			
 			// aapt resource value: 0x7F0E00AD
 			public const int Platform_AppCompat = 2131624109;
 			
